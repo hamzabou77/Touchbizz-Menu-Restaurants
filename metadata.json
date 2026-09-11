@@ -1,0 +1,6 @@
+{
+  "name": "TouchBizz Menu",
+  "description": "Production-ready restaurant digital menu platform with NFC & QR code access, multi-theme branding, and comprehensive menu management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
